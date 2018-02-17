@@ -1,5 +1,5 @@
 # -*- coding: utf8 -*-
-# author :- Jabed
+# author :- 
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
